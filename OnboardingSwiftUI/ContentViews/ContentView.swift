@@ -77,7 +77,6 @@ private struct GifView: View {
         Spacer()
         GifImage(gif)
             .aspectRatio(contentMode: .fit)
-        Spacer()
     }
 }
 
